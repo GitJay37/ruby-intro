@@ -2,6 +2,10 @@
 
 # Tu solucion abajo
 
+first_name = 'Jeison De Jesús'
+last_name = 'Anillo Pérez'
+age = 27
+
 first_name = 'Juan'
 last_name = 'fdsaf'
 age = 2
@@ -10,7 +14,7 @@ name = "Germán"
 name = gets.chomp
 puts "Hola #{name}"
 
-# Pruebas NO LAS BORRES
+#Pruebas NO LAS BORRES
 
 
 describe 'first_name' do
